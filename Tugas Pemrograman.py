@@ -1,3 +1,10 @@
+#Kelompok2
+#Jeni Klistiana 17210608
+#M. Alfi Nurpiansyah 17210836
+#Dito Candra 17210346
+#Dimas Imam 17210554
+
+
 #Input Data
 NIM = input(" Masukan NIM anda : ")
 NamaMahasiswa = input(" Masukan Nama Mahasiswa : ")
